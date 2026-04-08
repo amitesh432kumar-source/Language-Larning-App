@@ -1,0 +1,7 @@
+{
+  "name": "VOXA",
+  "description": "A real-time conversational AI language learning partner.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
